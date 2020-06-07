@@ -1,6 +1,6 @@
 -- Resource Metadata
 fx_version 'bodacious'
-games { 'rdr3', 'gta5' }
+games { 'gta5' }
 
 author 'EthanPeacock'
 description 'progressBars'
